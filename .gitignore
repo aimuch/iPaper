@@ -1,32 +1,24 @@
-# Prerequisites
-*.d
+.vscode
+./*/.vscode
+./*/*/.vscode
+./*/*/*/.vscode
+./*/*/*/*/.vscode
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+.idea
+./*/.idea
+./*/*/.idea
+./*/*/*/.idea
+./*/*/*/*/.idea
 
-# Precompiled Headers
-*.gch
-*.pch
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
+*/*/*/*/.DS_Store
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+build/
+*/build/
+*/*/build/
+*/*/*/build/
+*/*/*/*/build/
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
