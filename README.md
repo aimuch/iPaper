@@ -30,6 +30,7 @@ ai领域通用
 - [x] 2020-SPFCN Select and Prune the Fully Convolutional Networks for Real-time Parking Slot Detection
 # Parking Line Detection
 车位线检测
+- [x] 2019-DMPR-PS- A NOVEL APPROACH FOR PARKING-SLOT DETECTION USING DIRECTIONAL MARKING-POINT REGRESSION.pdf
 
 
 
