@@ -26,7 +26,6 @@ ai领域通用
 # Lane Detection
 车道线检测
 - [x] 2018-DeepPS-vision based prking-slot detection a benchmark and a learning-based approach
-- [ ] 2019-DMPR-PS- A NOVEL APPROACH FOR PARKING-SLOT DETECTION USING DIRECTIONAL MARKING-POINT REGRESSION
 - [x] 2020-SPFCN Select and Prune the Fully Convolutional Networks for Real-time Parking Slot Detection
 # Parking Line Detection
 车位线检测
