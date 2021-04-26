@@ -12,10 +12,11 @@
 ---
 # AI
 ai领域通用
+- [ ] 2015-Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
 # Object Detection
 目标检测
-
+- [ ] 2020-YOLOv4-Optimal Speed and Accuracy of Object Detection
 
 # Semantic Segmentation
 语义分割
@@ -30,6 +31,3 @@ ai领域通用
 # Parking Line Detection
 车位线检测
 - [x] 2019-DMPR-PS- A NOVEL APPROACH FOR PARKING-SLOT DETECTION USING DIRECTIONAL MARKING-POINT REGRESSION.pdf
-
-
-
